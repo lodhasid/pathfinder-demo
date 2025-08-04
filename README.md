@@ -1,4 +1,4 @@
-# SeeingAIApp - Multi-Mode Visual Assistant
+# Pathfinder AI App - Multi-Mode Visual Assistant
 
 A React Native mobile application designed to assist visually impaired users by providing real-time visual descriptions using AI-powered image analysis. The app features multiple operational modes and remote control capabilities.
 
